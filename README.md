@@ -13,6 +13,9 @@ Answer the following questions using SparkSQL:
 
 What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
+![image](https://github.com/joeldemontigny/Home_Sales/assets/130711180/2d10e429-8694-48fb-b4ef-fc940f463b3c)
+
+
 What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
 
 What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
