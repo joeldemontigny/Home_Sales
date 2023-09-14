@@ -28,6 +28,9 @@ What is the average price of a home for each year that has three bedrooms, three
 
 What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
+![image](https://github.com/joeldemontigny/Home_Sales/assets/130711180/3322c2e2-d7f5-48a5-b8b4-a25fd6e54423)
+
+
 Cache your temporary table home_sales.
 
 Check if your temporary table is cached.
