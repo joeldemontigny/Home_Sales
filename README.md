@@ -23,6 +23,9 @@ What is the average price of a home for each year it was built that has three be
 
 What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
 
+![image](https://github.com/joeldemontigny/Home_Sales/assets/130711180/53e92ecb-5b7b-45bc-bf94-7653d7598b8a)
+
+
 What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
 Cache your temporary table home_sales.
